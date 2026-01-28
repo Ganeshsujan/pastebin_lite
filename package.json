@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "NODE_ENV=development node server.js",
-    "test": "TEST_MODE=1 node server.js"
+    "test": "TEST_MODE=1 node server.js",
+    "vercel-dev": "vercel dev"
   },
   "keywords": [
     "pastebin",
