@@ -303,16 +303,5 @@ All errors return JSON with descriptive messages.
 
 MIT
 
-## Contributing
-
-Contributions are welcome. Please ensure:
-- Code is clean and readable
-- No TypeScript, Docker, or Redis
-- All routes return proper status codes
-- Input validation is thorough
-- MongoDB operations are atomic
-
----
-
-**Author**: Senior Node.js Backend Engineer  
+**Author**: Dhana Ganesh Nalli
 **Created**: January 2026
